@@ -1,0 +1,23 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+
+  label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+body{
+  font-family: sans-serif, Arial;
+}
+dd  {display:none;}
+input {
+  height: right;
+}
